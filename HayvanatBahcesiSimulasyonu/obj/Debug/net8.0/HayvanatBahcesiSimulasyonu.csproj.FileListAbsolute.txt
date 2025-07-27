@@ -1,0 +1,15 @@
+C:\Users\Monster\Desktop\HayvanatBahcesiSimulasyonu\HayvanatBahcesiSimulasyonu\bin\Debug\net8.0\HayvanatBahcesiSimulasyonu.exe
+C:\Users\Monster\Desktop\HayvanatBahcesiSimulasyonu\HayvanatBahcesiSimulasyonu\bin\Debug\net8.0\HayvanatBahcesiSimulasyonu.deps.json
+C:\Users\Monster\Desktop\HayvanatBahcesiSimulasyonu\HayvanatBahcesiSimulasyonu\bin\Debug\net8.0\HayvanatBahcesiSimulasyonu.runtimeconfig.json
+C:\Users\Monster\Desktop\HayvanatBahcesiSimulasyonu\HayvanatBahcesiSimulasyonu\bin\Debug\net8.0\HayvanatBahcesiSimulasyonu.dll
+C:\Users\Monster\Desktop\HayvanatBahcesiSimulasyonu\HayvanatBahcesiSimulasyonu\bin\Debug\net8.0\HayvanatBahcesiSimulasyonu.pdb
+C:\Users\Monster\Desktop\HayvanatBahcesiSimulasyonu\HayvanatBahcesiSimulasyonu\obj\Debug\net8.0\HayvanatBahcesiSimulasyonu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Monster\Desktop\HayvanatBahcesiSimulasyonu\HayvanatBahcesiSimulasyonu\obj\Debug\net8.0\HayvanatBahcesiSimulasyonu.AssemblyInfoInputs.cache
+C:\Users\Monster\Desktop\HayvanatBahcesiSimulasyonu\HayvanatBahcesiSimulasyonu\obj\Debug\net8.0\HayvanatBahcesiSimulasyonu.AssemblyInfo.cs
+C:\Users\Monster\Desktop\HayvanatBahcesiSimulasyonu\HayvanatBahcesiSimulasyonu\obj\Debug\net8.0\HayvanatBahcesiSimulasyonu.csproj.CoreCompileInputs.cache
+C:\Users\Monster\Desktop\HayvanatBahcesiSimulasyonu\HayvanatBahcesiSimulasyonu\obj\Debug\net8.0\HayvanatBahcesiSimulasyonu.sourcelink.json
+C:\Users\Monster\Desktop\HayvanatBahcesiSimulasyonu\HayvanatBahcesiSimulasyonu\obj\Debug\net8.0\HayvanatBahcesiSimulasyonu.dll
+C:\Users\Monster\Desktop\HayvanatBahcesiSimulasyonu\HayvanatBahcesiSimulasyonu\obj\Debug\net8.0\refint\HayvanatBahcesiSimulasyonu.dll
+C:\Users\Monster\Desktop\HayvanatBahcesiSimulasyonu\HayvanatBahcesiSimulasyonu\obj\Debug\net8.0\HayvanatBahcesiSimulasyonu.pdb
+C:\Users\Monster\Desktop\HayvanatBahcesiSimulasyonu\HayvanatBahcesiSimulasyonu\obj\Debug\net8.0\HayvanatBahcesiSimulasyonu.genruntimeconfig.cache
+C:\Users\Monster\Desktop\HayvanatBahcesiSimulasyonu\HayvanatBahcesiSimulasyonu\obj\Debug\net8.0\ref\HayvanatBahcesiSimulasyonu.dll
